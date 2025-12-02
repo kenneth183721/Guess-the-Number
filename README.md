@@ -1,2 +1,3 @@
-# Guess-the-Number
-Guess the Number
+# Description
+
+A number guessing game
